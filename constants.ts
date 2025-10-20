@@ -1,0 +1,45 @@
+
+export const TOPICS: string[] = [
+  // 10 chủ đề gốc Việt Nam
+  "Vườn hoa hướng dương / cúc / tulip",
+  "Ôm bó hoa chân dung studio",
+  "Hoa sen – áo dài trắng, sương sớm",
+  "Hoa đào – mùa xuân Việt Nam",
+  "Nữ doanh nhân – văn phòng hiện đại",
+  "Áo dài truyền thống – phố cổ, cầu gỗ",
+  "Áo dài cách tân – studio hiện đại",
+  "Nông thôn Việt – áo bà ba, đồng lúa",
+  "Lễ hội Tết – phố lồng đèn, câu đối đỏ",
+  "Café phong cách Nhật – ánh sáng cửa sổ",
+  // 20 chủ đề mở rộng
+  "Vườn cúc họa mi Hà Nội – sáng sớm tháng 11",
+  "Phố cổ Hội An – hoàng hôn vàng, áo dài lụa",
+  "Đồi chè Mộc Châu – váy trắng, sương mù nhẹ",
+  "Cánh đồng hoa Đà Lạt – nắng nhẹ, bokeh xa xa",
+  "Biển Nha Trang – váy maxi trắng, gió biển",
+  "Cầu Vàng – Bà Nà Hills – váy hiện đại, concept “nữ hoàng gió”",
+  "Rừng thông Đà Lạt – áo len nâu, sương sớm",
+  "Sa Pa – bản Cát Cát – váy thổ cẩm, mây trắng",
+  "Huế – cầu Trường Tiền, áo dài tím",
+  "TP.HCM – phố đi bộ Nguyễn Huệ, hiện đại, tự tin",
+  "Paris – Tháp Eiffel, phong cách cổ điển sang trọng",
+  "Kyoto – hoa anh đào, áo dài pha kimono",
+  "Seoul – phố Hongdae, phong cách K-beauty",
+  "Santorini – váy trắng, trời xanh, biển Aegean",
+  "New York – đường phố Manhattan, thời trang hiện đại",
+  "London – Big Ben, trench coat cổ điển",
+  "Bali – bãi biển và hoàng hôn, váy maxi nhẹ",
+  "Tokyo – phố đèn neon, phong cách tương lai",
+  "Rome – quảng trường cổ điển, váy đỏ quyền lực",
+  "Singapore – Gardens by the Bay, váy dạ hội sang trọng",
+];
+
+export const ASPECT_RATIOS: string[] = [
+  "1:1",
+  "3:4",
+  "4:3",
+  "2:3",
+  "4:5",
+  "16:9",
+  "9:16",
+];
